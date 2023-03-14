@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662416754397",
+    "project_id": "realtimequiz-2e125",
+    "storage_bucket": "realtimequiz-2e125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662416754397:android:0452b176d05fd88726bd34",
+        "android_client_info": {
+          "package_name": "com.example.realtime_quizeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662416754397-6qsolkvjubnohlj0it1bblb413s107n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAKRjmyKLOyBYZ861dpdEWt3_kDNr18o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662416754397-6qsolkvjubnohlj0it1bblb413s107n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
